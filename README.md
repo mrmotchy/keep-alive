@@ -23,7 +23,7 @@ $ npm install discord.js
 
 ## Install [npm](https://www.npmjs.com)
 ```
-$ npm install discord.js
+$ npm install 
 ```
 
 # 💻 Code example
